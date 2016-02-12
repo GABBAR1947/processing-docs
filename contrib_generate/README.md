@@ -29,7 +29,7 @@
 	python build_listing.py sources.conf contribs.txt
 	```
 
-* Pass in arguments for the compatible Processing revisions: 
+* Pass in arguments for the compatible Processing revisions:
 
 	```
 	python build_listing.py sources.conf contribs.txt 216 227
