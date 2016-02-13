@@ -3,10 +3,10 @@
 	<head>
 		<title><!--*-->title<!--*--></title>
 		
-                <link rel="icon" href="/favicon.ico" type="image/x-icon" /> 
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" /> 
 		
-                <meta http-equiv="Content-Type" content="text/html; charset=<!--*-->charset<!--*-->" />
-    	        <meta name="Author" content="Processing Foundation" />
+        <meta http-equiv="Content-Type" content="text/html; charset=<!--*-->charset<!--*-->" />
+    	<meta name="Author" content="Processing Foundation" />
 		<meta name="Publisher" content="Processing Foundation" />
 		<meta name="Keywords" content="Processing, Sketchbook, Programming, Coding, Code, Art, Design" />
 		<meta name="Description" content="Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology." />
